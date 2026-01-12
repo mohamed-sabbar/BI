@@ -34,7 +34,7 @@ PROJET-JOB-INTELLIGENT/
 │
 ├── 📌 FICHIERS PRINCIPAUX (Critiques)
 │   ├── 🚀 app.py                                              # Application Streamlit
-│   ├── 📓 job-market-analysisipynb  # Notebook EDA + ML
+│   ├── 📓 job-market-analysisi.pynb  # Notebook EDA + ML
 │   ├── 📦 requirements.txt                                    # Dépendances Python
 │   └── 📘 README.md                                           # Documentation complète
 │
@@ -171,7 +171,7 @@ pip install -r requirements.txt
 
 ### ✅ Étape 2 : Exécuter le Notebook (Une fois)
 
-Ouvrez `decoding-the-job-market-an-in-depth-exploration.ipynb` et exécutez **Cell → Run All**.
+Ouvrez `job-market-analysis.ipynb` et exécutez **Cell → Run All**.
 
 **Options :**
 
@@ -184,7 +184,7 @@ jupyter notebook
 **Ou via nbconvert :**
 
 ```bash
-jupyter nbconvert --to notebook --execute decoding-the-job-market-an-in-depth-exploration.ipynb
+jupyter nbconvert --to notebook --execute job-market-analysis.ipynb
 ```
 
 ⏱️ **Temps :** ~5-10 minutes
