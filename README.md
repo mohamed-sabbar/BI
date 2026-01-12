@@ -5,7 +5,7 @@
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
 [![Python](https://img.shields.io/badge/Python-3.12+-blue.svg)]()
-[![Version](https://img.shields.io/badge/Version-2.0-orange.svg)]()
+[![Version](https://img.shields.io/badge/Version-1.0-orange.svg)]()
 [![License](https://img.shields.io/badge/License-MIT-green.svg)]()
 [![Streamlit](https://img.shields.io/badge/Streamlit-Ready-brightgreen.svg)]()
 
@@ -34,7 +34,7 @@ PROJET-JOB-INTELLIGENT/
 │
 ├── 📌 FICHIERS PRINCIPAUX (Critiques)
 │   ├── 🚀 app.py                                              # Application Streamlit
-│   ├── 📓 job-market-analysisi.pynb  # Notebook EDA + ML
+│   ├── 📓 job-market-analysis.pynb  # Notebook EDA + ML
 │   ├── 📦 requirements.txt                                    # Dépendances Python
 │   └── 📘 README.md                                           # Documentation complète
 │
@@ -46,7 +46,7 @@ PROJET-JOB-INTELLIGENT/
 
 ## 🎯 Rôle de Chaque Fichier Principal
 
-### 1️⃣ Notebook (`decoding-the-job-market-an-in-depth-exploration.ipynb`)
+### 1️⃣ Notebook (`job-market-analysis.ipynb`)
 
 **Objectif :** Analyse EDA complète + Entraînement ML + Export des données
 
